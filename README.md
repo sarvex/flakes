@@ -1,0 +1,2 @@
+# flakes
+Personal NixOS configuration
