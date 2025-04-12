@@ -133,6 +133,8 @@
   nixpkgs.config.permittedInsecurePackages = [ "openssl-1.1.1w"];
 
   # nix.nixPath = ["nixpkgs=${inputs.nixpkgs}"];
+  nix.optimise.automatic = true;
+  nix.gc.automatic = true;
   nix.settings = {
     auto-optimise-store = true;
     experimental-features = [ "nix-command" "flakes" ];
