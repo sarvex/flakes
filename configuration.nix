@@ -157,6 +157,8 @@
     clang
     gcc
     sccache
+    go
+    rustup
     alacritty
     alacritty-theme
     ghostty
@@ -209,6 +211,7 @@
       korganizer
       # ktouch
       ksudoku
+      marble
       dragon
       partitionmanager
       falkon
