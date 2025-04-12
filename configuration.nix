@@ -174,7 +174,7 @@
     # yandex-browser
     tor-browser
     palemoon-bin
-    opera
+    # opera
     # midori
     firedragon
     floorp
@@ -211,7 +211,9 @@
       korganizer
       # ktouch
       ksudoku
+      kontact
       marble
+      merkuro
       dragon
       partitionmanager
       falkon
